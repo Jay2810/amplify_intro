@@ -2,7 +2,7 @@
 
 # dependencies
 /amplify
-ui-components/
+# ui-components/
 /node_modules
 /.pnp
 .pnp.js
